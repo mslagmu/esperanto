@@ -10,7 +10,7 @@ export default {
   name: "HelloWorld",
   data() {
     return {
-      msg: "Esperanto"
+      msg: "Esperanto2"
     };
   }
 };
